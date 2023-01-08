@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap:https://hemicasangels.org/sitemap.xml
+Sitemap:https://hemicasangels.org/sitemap_1.xml
